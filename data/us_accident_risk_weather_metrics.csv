@@ -1,0 +1,51 @@
+State,Code,Region,Avg_Snowfall_Inches,Precip_Days_Per_Year,Freezing_Days_Per_Year,Dense_Fog_Days_Per_Year,Extreme_Rain_Days
+Alabama,AL,Southeast,1.6,110,35,25,15
+Alaska,AK,Non-Contiguous,74.5,140,190,38,12
+Arizona,AZ,Southwest,5.0,40,15,5,2
+Arkansas,AR,South,5.2,105,50,22,14
+California,CA,West,4.0,50,10,32,5
+Colorado,CO,Southwest,67.3,90,155,12,1
+Connecticut,CT,Northeast,40.2,120,115,24,12
+Delaware,DE,Northeast,15.1,115,80,26,11
+Florida,FL,Southeast,0.0,115,2,35,17
+Georgia,GA,Southeast,0.7,112,30,28,13
+Hawaii,HI,Non-Contiguous,0.0,130,0,10,18
+Idaho,ID,Northwest,48.0,105,160,20,1
+Illinois,IL,Central,24.1,110,110,18,9
+Indiana,IN,Central,25.4,122,110,22,10
+Iowa,IA,Upper Midwest,34.9,102,135,16,8
+Kansas,KS,High Plains,14.7,80,110,14,6
+Kentucky,KY,Central,11.9,120,85,24,12
+Louisiana,LA,South,0.2,105,12,38,18
+Maine,ME,Northeast,77.4,130,160,28,10
+Maryland,MD,Northeast,20.2,115,80,25,12
+Massachusetts,MA,Northeast,51.1,122,110,27,12
+Michigan,MI,Upper Midwest,60.5,135,140,20,6
+Minnesota,MN,Upper Midwest,54.0,95,165,15,5
+Mississippi,MS,South,0.9,102,25,30,16
+Missouri,MO,Central,17.1,100,95,17,10
+Montana,MT,West North Central,48.5,90,180,14,1
+Nebraska,NE,High Plains,28.5,85,140,14,4
+Nevada,NV,West,21.8,40,120,6,1
+New Hampshire,NH,Northeast,71.4,128,155,26,11
+New Jersey,NJ,Northeast,16.5,118,90,26,12
+New Mexico,NM,Southwest,23.3,60,130,7,2
+New York,NY,Northeast,55.3,130,130,22,10
+North Carolina,NC,Southeast,3.8,112,60,26,13
+North Dakota,ND,West North Central,39.4,82,185,16,2
+Ohio,OH,Central,27.5,130,115,20,9
+Oklahoma,OK,South,7.8,82,70,16,9
+Oregon,OR,Northwest,3.0,115,65,34,6
+Pennsylvania,PA,Northeast,41.5,130,120,22,11
+Rhode Island,RI,Northeast,33.2,124,100,28,13
+South Carolina,SC,Southeast,0.5,105,40,26,12
+South Dakota,SD,High Plains,38.8,80,160,15,3
+Tennessee,TN,South,4.5,118,65,25,15
+Texas,TX,South,2.2,75,30,22,8
+Utah,UT,Southwest,56.2,70,140,10,1
+Vermont,VT,Northeast,81.2,135,165,24,10
+Virginia,VA,Southeast,10.3,112,75,27,11
+Washington,WA,Northwest,5.0,125,60,36,7
+West Virginia,WV,Central,32.5,135,110,25,11
+Wisconsin,WI,Upper Midwest,50.9,110,150,18,6
+Wyoming,WY,West North Central,91.4,88,185,11,1
